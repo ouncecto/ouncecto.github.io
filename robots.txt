@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ouncecto.github.io/sitemap
+Sitemap: https://ouncecto.github.io/app/sitemap
+Sitemap: https://ouncecto.github.io/assets/sitemap
+Sitemap: https://ouncecto.github.io/css/sitemap
+Sitemap: https://ouncecto.github.io/includes/sitemap
+Sitemap: https://ouncecto.github.io/item/sitemap
+Sitemap: https://ouncecto.github.io/src/sitemap
